@@ -9,3 +9,4 @@ ala = kanta * korkeus
 
 print("Suorakulmion piiri: " + str(piiri))
 print("Suorakulmion pinta-ala: " + str(ala))
+''

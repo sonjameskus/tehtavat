@@ -17,3 +17,4 @@ print("Keskiarvo: " + str(keskiarvo))
 
 
 
+
