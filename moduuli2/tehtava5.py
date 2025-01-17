@@ -1,10 +1,6 @@
-leiviska = input("Anna leiviskät: ")
-naula = input("Anna naulat: ")
-luoti = input("Anna luodit: ")
-
-leiviska = float(leiviska)
-naula = float(naula)
-luoti = float(luoti)
+leiviska = float(input("Anna leiviskät: "))
+naula = float(input("Anna naulat: "))
+luoti = float(input("Anna luodit: "))
 
 luoti_g = luoti*13.3
 naula_g = naula*32*13.3
