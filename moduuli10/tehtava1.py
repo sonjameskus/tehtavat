@@ -55,6 +55,8 @@ talo = Talo(1, 10, 6)
 talo.aja_hissiä(3, 7)
 talo.aja_hissiä(2, 4)
 talo.aja_hissiä(5, 9)
+talo.aja_hissiä(4, 3)
+talo.aja_hissiä(0, 10)
 
 #tehtävä 3
 
